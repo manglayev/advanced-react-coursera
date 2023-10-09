@@ -1,0 +1,39 @@
+* {
+  font-family: sans-serif;
+}
+input,
+button {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+input {
+  display: block;
+  width: 100%;
+}
+button {
+  border: 1px solid gray;
+  background: whitesmoke;
+  margin-right: 5px;
+  width: 150px;
+}
+.App
+{
+  margin: auto;
+  width: 25%;
+}
+.flexContainer
+{
+  display: flex;
+  flex-direction: row;
+}
+.orange
+{
+  background: tomato;
+  color: white;
+}
+.white
+{
+  width: 25%;
+}
